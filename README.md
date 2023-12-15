@@ -1,4 +1,4 @@
-# Automatic-Payment-Indicator
+# Automatic-Payment-Reminder
 PROJECT DESCRIPTION:
 <br>
 Modules used -smtplib,pandas,time,datetime
