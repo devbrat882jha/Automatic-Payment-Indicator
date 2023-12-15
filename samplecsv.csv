@@ -1,0 +1,6 @@
+name,date_of_last_payment,status,email,email status
+elon,02-Nov,pending,receiver@gmail.com,not sent
+mark,01-Dec,paid,receiver@gmail.com,not sent
+jeff,11-Nov,pending,receiver@gmail.com,not sent
+sam,05-Dec,paid,receiver@gmail.com,not sent
+sid,01-Nov,pending,receiver@gmail.com,not sent
